@@ -179,11 +179,6 @@ class NeuralNetwork:
 
 
 
-
-
-
-
-
 # model creation
 model = NeuralNetwork(784,10)
 model.add_layer(100)
